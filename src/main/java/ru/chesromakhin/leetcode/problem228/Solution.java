@@ -1,4 +1,4 @@
-package ru.chesromakhin.problem228;
+package ru.chesromakhin.leetcode.problem228;
 
 import java.util.LinkedList;
 import java.util.List;
