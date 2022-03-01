@@ -1,6 +1,8 @@
-package ru.chesromakhin.leetcode.problem2;
+package ru.chesromakhin.leetcode.problems0xx.problem2;
 
 import org.junit.jupiter.api.Test;
+import ru.chesromakhin.leetcode.problems0xx.problem2.ListNode;
+import ru.chesromakhin.leetcode.problems0xx.problem2.Solution;
 
 import static org.junit.jupiter.api.Assertions.*;
 

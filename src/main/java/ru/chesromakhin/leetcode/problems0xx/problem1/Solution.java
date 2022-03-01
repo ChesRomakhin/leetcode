@@ -1,4 +1,4 @@
-package ru.chesromakhin.leetcode.problem1;
+package ru.chesromakhin.leetcode.problems0xx.problem1;
 
 class Solution {
 

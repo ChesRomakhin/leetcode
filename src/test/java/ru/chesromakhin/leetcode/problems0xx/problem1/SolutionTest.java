@@ -1,6 +1,7 @@
-package ru.chesromakhin.leetcode.problem1;
+package ru.chesromakhin.leetcode.problems0xx.problem1;
 
 import org.junit.jupiter.api.Test;
+import ru.chesromakhin.leetcode.problems0xx.problem1.Solution;
 
 import java.util.Set;
 

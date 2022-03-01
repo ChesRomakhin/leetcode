@@ -1,6 +1,7 @@
-package ru.chesromakhin.leetcode.problem228;
+package ru.chesromakhin.leetcode.problems2xx.problem228;
 
 import org.junit.jupiter.api.Test;
+import ru.chesromakhin.leetcode.problems2xx.problem228.Solution;
 
 import java.util.Collections;
 import java.util.List;
