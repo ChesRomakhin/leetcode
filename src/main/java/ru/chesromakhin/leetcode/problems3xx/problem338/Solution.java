@@ -21,7 +21,7 @@ public class Solution {
     int result = 0;
 
     do {
-      result += number % 2;
+      result += number & 1;
       number = number >> 1;
     } while (number != 0);
 
