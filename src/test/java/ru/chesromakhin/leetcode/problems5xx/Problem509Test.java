@@ -2,11 +2,10 @@ package ru.chesromakhin.leetcode.problems5xx;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
-import ru.chesromakhin.leetcode.problems11xx.Problem1137;
 
 import java.util.stream.Stream;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class Problem509Test {
 
