@@ -15,9 +15,19 @@ class Problem1626Test {
 
   @Test
   void test2() {
-    int score = new Problem1626().bestTeamScore(new int[]{596,277,897,622,500,299,34,536,797,32,264,948,645,537,83,589,770}, new int[]{18,52,60,79,72,28,81,33,96,15,18,5,17,96,57,72,72});
+    int score = new Problem1626().bestTeamScore(
+      new int[]{596,277,897,622,500,299,34,536,797,32,264,948,645,537,83,589,770},
+      new int[]{18,52,60,79,72,28,81,33,96,15,18,5,17,96,57,72,72}
+    );
 
     assertEquals(3287, score);
+  }
+
+  @Test
+  void test3() {
+    int score = new Problem1626().bestTeamScore(new int[]{4,5,6,5}, new int[]{2,1,2,1});
+
+    assertEquals(16, score);
   }
 
   @Test
