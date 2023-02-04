@@ -1,7 +1,7 @@
 
 ## Array
 
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [X] 1 [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
@@ -18,7 +18,7 @@
 
 - [ ] [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [X] 338 [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
@@ -26,7 +26,7 @@
 
 ## Dynamic Programming
 
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [X] 70 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [ ] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
@@ -67,7 +67,7 @@
 
 - [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [X] 21 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
@@ -90,7 +90,7 @@
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [X] 20 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
