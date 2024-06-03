@@ -20,7 +20,7 @@ public class Problem541 {
 
     int l = a.length;
     int i = 0;
-    int j = 0;
+    int j;
 
     while (i < l) {
       if (l - i > k) {
