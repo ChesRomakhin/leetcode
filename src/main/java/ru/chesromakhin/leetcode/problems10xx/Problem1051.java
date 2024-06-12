@@ -1,6 +1,5 @@
 package ru.chesromakhin.leetcode.problems10xx;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 /**
