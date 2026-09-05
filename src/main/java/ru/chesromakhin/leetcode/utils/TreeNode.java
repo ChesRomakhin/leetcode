@@ -35,13 +35,15 @@ public class TreeNode {
     int i = 1;
     while (i < definition.size()) {
       for (TreeNode node : prevLevel) {
-        Integer left = definition.get(i++);
+        Integer left = definition.size() > i ? definition.get(i) : null;
+        i++;
         if (left != null) {
           node.left = new TreeNode(left);
           currentLevel.add(node.left);
         }
 
-        Integer right = definition.get(i++);
+        Integer right = definition.size() > i ? definition.get(i) : null;
+        i++;
         if (right != null) {
           node.right = new TreeNode(right);
           currentLevel.add(node.right);
